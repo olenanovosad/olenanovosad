@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## About Me!
-* BCIT CIT student 
+* BCIT CIT studen
+* Python 
 ## New hobbies
 * camping
 
