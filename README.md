@@ -1,4 +1,6 @@
 ## Hi there 👋
+## About Me
+* 2d term BCIT student
 
 <!--
 **olenanovosad/olenanovosad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
